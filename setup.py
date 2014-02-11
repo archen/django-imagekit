@@ -32,7 +32,7 @@ setup(
     name='django-imagekit',
     version=pkgmeta['__version__'],
     description='Automated image processing for Django models.',
-    long_description=read(os.path.join(os.path.dirname(__file__), 'README.rst')),
+#    long_description=read(os.path.join(os.path.dirname(__file__), 'README.rst')),
     author='Matthew Tretter',
     author_email='m@tthewwithanm.com',
     maintainer='Bryan Veloso',
